@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dot_size">8dp</dimen>
+    <dimen name="dot_margin">3dp</dimen>
+    <dimen name="poster_width">140dp</dimen>
+    <dimen name="poster_height">200dp</dimen>
+    <dimen name="poster_spacing">10dp</dimen>
+    <dimen name="carta_ancho">76dp</dimen>
+    <dimen name="carta_alto">112dp</dimen>
+    <dimen name="carta_separacion">16dp</dimen>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_portada">
+
+    <fragment
+        android:id="@+id/nav_portada"
+        android:name="com.example.mentalistapp.fragment.PortadaFragment"
+        android:label="@string/nav_portada" />
+
+    <fragment
+        android:id="@+id/nav_personajes"
+        android:name="com.example.mentalistapp.fragment.PersonajesFragment"
+        android:label="@string/nav_personajes" />
+
+    <fragment
+        android:id="@+id/nav_momentos"
+        android:name="com.example.mentalistapp.fragment.MomentosFragment"
+        android:label="@string/nav_momentos" />
+
+    <fragment
+        android:id="@+id/nav_juego"
+        android:name="com.example.mentalistapp.fragment.JuegoFragment"
+        android:label="@string/nav_juego" />
+
+    <fragment
+        android:id="@+id/nav_acerca"
+        android:name="com.example.mentalistapp.fragment.AcercaFragment"
+        android:label="@string/nav_acerca" />
+
+    <fragment
+        android:id="@+id/nav_contratame"
+        android:name="com.example.mentalistapp.fragment.ContratameFragment"
+        android:label="@string/nav_contratame" />
+
+    <fragment
+        android:id="@+id/detallePersonaje"
+        android:name="com.example.mentalistapp.fragment.DetallePersonajeFragment"
+        android:label="@string/detalle_personaje_label">
+        <argument
+            android:name="personajeId"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detalleMomento"
+        android:name="com.example.mentalistapp.fragment.DetalleMomentoFragment"
+        android:label="@string/detalle_momento_label">
+        <argument
+            android:name="momentoId"
+            app:argType="integer" />
+    </fragment>
+</navigation>

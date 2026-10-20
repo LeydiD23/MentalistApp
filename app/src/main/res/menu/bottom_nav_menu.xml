@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_portada"
+        android:icon="@drawable/ic_portada"
+        android:title="@string/nav_portada" />
+
+    <item
+        android:id="@+id/nav_personajes"
+        android:icon="@drawable/ic_personajes"
+        android:title="@string/nav_personajes" />
+
+    <item
+        android:id="@+id/nav_momentos"
+        android:icon="@drawable/ic_momentos"
+        android:title="@string/nav_momentos" />
+
+    <item
+        android:id="@+id/nav_juego"
+        android:icon="@drawable/ic_juego"
+        android:title="@string/nav_juego" />
+
+    <item
+        android:id="@+id/nav_contratame"
+        android:icon="@drawable/ic_contratame"
+        android:title="@string/nav_contratame" />
+</menu>

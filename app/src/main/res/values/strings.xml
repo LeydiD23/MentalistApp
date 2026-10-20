@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El Mentalista</string>
+
+    <string name="nav_portada">Portada</string>
+    <string name="nav_personajes">Personajes</string>
+    <string name="nav_momentos">Momentos</string>
+    <string name="nav_juego">Juega</string>
+    <string name="nav_acerca">Acerca de</string>
+    <string name="nav_contratame">Contrátame</string>
+
+    <string name="portada_titulo">El Mentalista</string>
+    <string name="portada_subtitulo">The Mentalist · 2008 – 2015</string>
+    <string name="portada_desc">Patrick Jane, un ex médium con extraordinarias habilidades de observación, trabaja como consultor independiente para el CBI (y luego el FBI) mientras busca al asesino de su familia: Red John.</string>
+
+    <string name="personajes_titulo">Personajes</string>
+    <string name="momentos_titulo">Momentos</string>
+    <string name="acerca_titulo">Acerca de la serie</string>
+
+    <string name="detalle_personaje_label">Personaje</string>
+    <string name="detalle_momento_label">Momento</string>
+    <string name="video_no_disponible">Video no disponible aún.\nColoca el archivo .mp4 en res/raw con el nombre indicado.</string>
+
+    <string name="juego_titulo">Juega conmigo</string>
+    <string name="juego_subtitulo">Sigue la carta · ¿Puedes superar a Jane?</string>
+    <string name="juego_instruccion">Memoriza la carta marcada, sigue la mezcla y toca donde terminó.</string>
+    <string name="juego_mira">¡Observa bien!</string>
+    <string name="juego_mezclando">Mezclando…</string>
+    <string name="juego_elige">¡Toca la carta de Jane!</string>
+    <string name="juego_acierto">¡Bien! Tu vista no engaña a nadie.</string>
+    <string name="juego_fallo">Fallaste. Jane vuelve a sonreír…</string>
+    <string name="juego_ronda">Ronda %1$d de %2$d</string>
+    <string name="juego_vidas">Vidas</string>
+    <string name="juego_jugar">JUGAR</string>
+    <string name="juego_reintentar">REINTENTAR</string>
+    <string name="juego_victoria">¡Puedes superar a Jane!</string>
+    <string name="juego_derrota">Jane ha ganado esta vez</string>
+    <string name="juego_victoria_desc">Completaste las 4 rondas y tu observación fue impecable.</string>
+    <string name="juego_derrota_desc">Te quedaste sin vidas. La mente de Jane juega en otra liga… por ahora.</string>
+
+    <string name="acerca_nombre">El Mentalista (The Mentalist)</string>
+    <string name="acerca_creador_label">Creador</string>
+    <string name="acerca_creador_valor">Bruno Heller</string>
+    <string name="acerca_temporadas_label">Temporadas</string>
+    <string name="acerca_temporadas_valor">7 temporadas (151 episodios)</string>
+    <string name="acerca_anios_label">Años al aire</string>
+    <string name="acerca_anios_valor">2008 – 2015 · CBS</string>
+    <string name="acerca_protagonista_label">Protagonista</string>
+    <string name="acerca_protagonista_valor">Simon Baker como Patrick Jane</string>
+    <string name="acerca_sinopsis_label">Sinopsis</string>
+    <string name="acerca_sinopsis_valor">Patrick Jane fue un famoso médium televisivo cuya esposa e hija fueron asesinadas por el serial killer conocido como Red John. Arrepentido de haberse burlado de los criminales, abandonó el mundo de la pseudociencia y se unió a la Agencia de Inteligencia de California (CBI) como consultor. Con su mente prodigiosa, observación hiperdetallada y ausencia total de respeto por la autoridad, ayuda a resolver los casos más difíciles mientras persigue la venganza contra el hombre que destruyó su vida.</string>
+    <string name="acerca_dato_curioso_label">Dato curioso</string>
+    <string name="acerca_dato_curioso_valor">La serie se emitió durante 7 temporadas en CBS y tuvo más de 150 episodios. El final revela el identidad de Red John y cierra la historia de Jane con un giro inesperado.</string>
+
+    <string name="contrata_titulo">Contrátame</string>
+    <string name="contrata_subtitulo">Desarrolladora de esta app</string>
+    <string name="contrata_nombre">Leydi Massiel Diaz Rodriguez</string>
+    <string name="contrata_correo">leidymasieldiaz@gmail.com</string>
+    <string name="contrata_telefono">8099172769</string>
+    <string name="contrata_correo_label">Correo</string>
+    <string name="contrata_telefono_label">Teléfono</string>
+    <string name="contrata_cv_label">Mi currículum</string>
+    <string name="contrata_cv_desc">Leydi Massiel · Currículum vitae</string>
+    <string name="contrata_ver_cv">VER CURRÍCULUM (PDF)</string>
+    <string name="contrata_pdf_error">No se encontró ninguna app para abrir el PDF.</string>
+    <string name="contrata_contacto"><![CDATA[¿Interesado en mi trabajo? ¡Contáctame!]]></string>
+    <string name="contrata_acerca_boton">ACERCA DE LA SERIE</string>
+</resources>

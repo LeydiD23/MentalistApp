@@ -103,7 +103,7 @@ app/src/main/
 
 **Leydi Massiel Diaz Rodriguez**
 - Correo: leidymasieldiaz@gmail.com
-- Teléfono: 8099172769
+  
 
 ---
 
